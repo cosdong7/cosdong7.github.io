@@ -9,11 +9,9 @@ type: about
 
 ---
 
-|||
 
-|:---|---:|
 
-|**Inha University**, Incheon, South Korea| Mar.2019 -  Current (Attending)|
+**Inha University**, Incheon, South Korea Mar.2019 -  Current (Attending){: .text-right}
 
 * Major in Pre-medicine
 * Minor in Computer Engineering
