@@ -7,7 +7,7 @@ type: about
 
 
 
-## Education
+>  Education
 
 **Inha University**, Incheon, South Korea Mar.2019 - Current (Attending)
 
