@@ -5,7 +5,11 @@ type: about
 
 
 
->  Education
+> Nam DongHyun (cosdong7)
+
+
+
+## Education
 
 **Inha University**, Incheon, South Korea Mar.2019 - Current (Attending)
 
