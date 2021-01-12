@@ -40,13 +40,15 @@ type: about
 
 ## Experience 
 
-#### AI & Big Data Research
+<font size = 4>**AI & Big Data Research**</font>
 
 **Seoul National University Hospital Biomedical Research Institute** 
 
 *Research Engineer (Intern)*
 
 * Big Data Analysis using OMOP CDM
+
+
 
 **Happydaram (startup)** 
 
@@ -57,7 +59,9 @@ type: about
 
 
 
-#### Information Security Research
+
+
+<font size = 4>**Information Security Research**</font>
 
 **Best of the BestVulnerability Analysis track** (A government-supported project that leads the future of information security technology by fostering talent)
 
