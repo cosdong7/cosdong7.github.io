@@ -5,17 +5,19 @@ type: about
 
 
 
-Nam DongHyun (cosdong7)
+
+
+# Nam DongHyun (cosdong7)
 
 
 
 ## Education
 
-**Inha University**, Incheon, South Korea <div style="text-align: right"> Mar.2019 - Current (Attending) </div>
+<br>**Inha University**, Incheon, South Korea <div style="text-align: right"> Mar.2019 - Current (Attending) </div>
 
 * Major in Pre-medicine
 * Minor in Computer Engineering
-* GPA 4.0/4.5 (Current)
+* GPA 4.0/4.5 (Current) <br>
 
 **Korea University**, Seoul, South Korea <p align="right"> Mar.2018 - Feb.2019 (Drop out) </p>
 
