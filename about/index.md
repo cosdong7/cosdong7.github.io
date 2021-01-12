@@ -3,8 +3,6 @@ layout: page
 type: about
 ---
 
-# Nam DongHyun (cosdong7)
-
 
 
 >  Education
@@ -20,7 +18,7 @@ type: about
 * Major in Cyber Defense
 * GPA 4.06/4.5
 
-**Korea Science Academy of KAIST**, Busan <div style="text-align: right">2015 - 2018 (Graduated)</div>
+**Korea Science Academy of KAIST**, Busan <div style="text-align: right">Mar.2015 - Feb.2018 (Graduated)</div>
 
 
 
