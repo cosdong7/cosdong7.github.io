@@ -7,24 +7,30 @@ type: about
 
 
 
-# Nam DongHyun (cosdong7)
+<font size = 6>Nam DongHyun (cosdong7)</font>
 
 
 
 ## Education
 
-<br>**Inha University**, Incheon, South Korea <div style="text-align: right"> Mar.2019 - Current (Attending) </div>
+<div style="text-align: right"> Mar.2019 - Current (Attending) </div>
+
+**Inha University**, Incheon, South Korea 
 
 * Major in Pre-medicine
 * Minor in Computer Engineering
-* GPA 4.0/4.5 (Current) <br>
+* GPA 4.0/4.5 (Current) 
 
-**Korea University**, Seoul, South Korea <p align="right"> Mar.2018 - Feb.2019 (Drop out) </p>
+<div style="text-align: right"> Mar.2018 - Feb.2019 (Drop out) </div>
+
+**Korea University**, Seoul, South Korea 
 
 * Major in Cyber Defense
 * GPA 4.06/4.5
 
-**Korea Science Academy of KAIST**, Busan <div style="text-align: right"> Mar.2015 - Feb.2018 (Graduated) </div>
+<div style="text-align: right"> Mar.2015 - Feb.2018 (Graduated) </div>
+
+**Korea Science Academy of KAIST**, Busan 
 
 
 
@@ -60,3 +66,41 @@ type: about
 * Developed ```Trained Api dependency model-based Windows kernel fuzzer```
 * Team Leader, Core-Algorithm Engineer, Presenter
 
+
+
+# 글 정렬하기
+---
+> 마크다운은 가운데 정렬만 지원한다.
+>
+> <center>가운데</center>  
+<div style="text-align: left"> 왼쪽 </div>
+aaa<div style="text-align: right"> 오른쪽 </div>
+
+
+```
+<center>가운데</center>  
+<div style="text-align: left"> 왼쪽 </div>
+<div style="text-align: right"> 오른쪽 </div>
+```
+<br>
+<br>
+<br>
+
+```
+# 글 정렬하기
+---
+> 마크다운은 가운데 정렬만 지원한다.
+<center>가운데</center>  
+<div style="text-align: left"> 왼쪽 </div>
+<div style="text-align: right"> 오른쪽 </div>
+
+
+​```
+<center>가운데</center>  
+<div style="text-align: left"> 왼쪽 </div>
+<div style="text-align: right"> 오른쪽 </div>
+​```
+<br>
+<br>
+<br>
+```
