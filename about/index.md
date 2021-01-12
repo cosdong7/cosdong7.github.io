@@ -11,18 +11,18 @@ type: about
 
 ## Education
 
-**Inha University**, Incheon, South Korea Mar.2019 - Current (Attending)
+**Inha University**, Incheon, South Korea <div style="text-align: right"> Mar.2019 - Current (Attending) </div>
 
 * Major in Pre-medicine
 * Minor in Computer Engineering
 * GPA 4.0/4.5 (Current)
 
-**Korea University**, Seoul, South Korea <div style="text-align: right">Mar.2018 - Feb.2019 (Drop out)</div>
+**Korea University**, Seoul, South Korea <div style="text-align: right"> Mar.2018 - Feb.2019 (Drop out) </div>
 
 * Major in Cyber Defense
 * GPA 4.06/4.5
 
-**Korea Science Academy of KAIST**, Busan <div style="text-align: right">Mar.2015 - Feb.2018 (Graduated)</div>
+**Korea Science Academy of KAIST**, Busan <div style="text-align: right"> Mar.2015 - Feb.2018 (Graduated) </div>
 
 
 
