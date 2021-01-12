@@ -3,7 +3,7 @@ layout: page
 type: about
 ---
 
-
+<br>
 
 <center><font size = 5>Nam DongHyun (cosdong7)</font></center>
 
@@ -40,32 +40,34 @@ type: about
 
 ## Experience 
 
-<font size = 4>**AI & Big Data Research**</font>
+<font size = 4>AI & Big Data Research</font>
 
-**Seoul National University Hospital Biomedical Research Institute** 
+**Seoul National University Hospital Biomedical Research Institute**   
 
-*Research Engineer (Intern)*
+*Research Engineer (Intern)*  
 
 * Big Data Analysis using OMOP CDM
 
+<br>
 
+**Happydaram (startup)**  
 
-**Happydaram (startup)** 
-
-*AI Engineer*
+*AI Engineer*  
 
 * Face recognition
 * Human detection and tracking
 
 
 
+<br>
 
+<br>
 
-<font size = 4>**Information Security Research**</font>
+<font size = 4>Information Security Research</font>
 
-**Best of the BestVulnerability Analysis track** (A government-supported project that leads the future of information security technology by fostering talent)
+**Best of the BestVulnerability Analysis track** (A government-supported project that leads the future of information security technology by fostering talent)  
 
-*Trainee*
+*Trainee*  
 
 * Developed ```Trained Api dependency model-based Windows kernel fuzzer```
 * Team Leader, Core-Algorithm Engineer, Presenter
