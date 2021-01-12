@@ -5,9 +5,9 @@ type: about
 
 
 
-<font size = 5> </font>
+<center><font size = 5>Nam DongHyun (cosdong7)</font></center>
 
-# Nam DongHyun (cosdong7)
+
 
 ---
 
