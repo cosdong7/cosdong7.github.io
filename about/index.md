@@ -9,7 +9,7 @@ type: about
 
 # Nam DongHyun (cosdong7)
 
-
+---
 
 ## Education
 
@@ -65,42 +65,3 @@ type: about
 
 * Developed ```Trained Api dependency model-based Windows kernel fuzzer```
 * Team Leader, Core-Algorithm Engineer, Presenter
-
-
-
-# 글 정렬하기
----
-> 마크다운은 가운데 정렬만 지원한다.
->
-> <center>가운데</center>  
-<div style="text-align: left"> 왼쪽 </div>
-aaa<div style="text-align: right"> 오른쪽 </div>
-
-
-```
-<center>가운데</center>  
-<div style="text-align: left"> 왼쪽 </div>
-<div style="text-align: right"> 오른쪽 </div>
-```
-<br>
-<br>
-<br>
-
-```
-# 글 정렬하기
----
-> 마크다운은 가운데 정렬만 지원한다.
-<center>가운데</center>  
-<div style="text-align: left"> 왼쪽 </div>
-<div style="text-align: right"> 오른쪽 </div>
-
-
-​```
-<center>가운데</center>  
-<div style="text-align: left"> 왼쪽 </div>
-<div style="text-align: right"> 오른쪽 </div>
-​```
-<br>
-<br>
-<br>
-```
