@@ -5,7 +5,7 @@ type: about
 
 
 
-> Nam DongHyun (cosdong7)
+Nam DongHyun (cosdong7)
 
 
 
@@ -17,7 +17,7 @@ type: about
 * Minor in Computer Engineering
 * GPA 4.0/4.5 (Current)
 
-**Korea University**, Seoul, South Korea <div style="text-align: right"> Mar.2018 - Feb.2019 (Drop out) </div>
+**Korea University**, Seoul, South Korea <p align="right"> Mar.2018 - Feb.2019 (Drop out) </p>
 
 * Major in Cyber Defense
 * GPA 4.06/4.5
