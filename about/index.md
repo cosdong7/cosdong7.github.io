@@ -19,7 +19,7 @@ type: about
 
 * Major in Pre-medicine
 * Minor in Computer Engineering
-* GPA 4.0/4.5 (Current) 
+* GPA 4.04/4.5 (Current) 
 
 <div style="text-align: right"> Mar.2018 - Feb.2019 (Drop out) </div>
 
@@ -58,8 +58,6 @@ type: about
 * Human detection and tracking
 
 
-
-<br>
 
 <br>
 
