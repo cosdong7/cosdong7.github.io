@@ -17,8 +17,7 @@ type: about
 
 **Inha University**, Incheon, South Korea 
 
-* Major in Pre-medicine
-* Minor in Computer Engineering
+* Double major in Pre-medicine and Computer Engineering
 * GPA 4.04/4.5 (Current) 
 
 <div style="text-align: right"> Mar.2018 - Feb.2019 (Drop out) </div>
