@@ -7,9 +7,9 @@ tags: RSA
 
 ---
 
-<script type="text/javascript" async
- src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
-  </script>
+
+
+
 
 <center><h1>Euler's theorem</h1></center>
 
@@ -25,9 +25,11 @@ $$
 
 
 
-
+<h3>$Proof. $</h3>
 
 $Proof. $
+
+</h3>
 
 $Let\; S = \{1\leq k\leq n\,\vert \,gcd(k, n)=1\,,\,k\in\mathbb{Z} \}.$ 
 
