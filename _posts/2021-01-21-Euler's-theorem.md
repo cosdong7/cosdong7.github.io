@@ -25,11 +25,11 @@ $$
 
 
 
-<h3>$Proof. $</h3>
-
+* TOC
+{:toc}
 $Proof. $
 
-</h3>
+
 
 $Let\; S = \{1\leq k\leq n\,\vert \,gcd(k, n)=1\,,\,k\in\mathbb{Z} \}.$ 
 
@@ -39,13 +39,13 @@ $S = \{b_1,\, b_2,\, ...\,,b_{\varphi(n)}\}$
 
 $Let\; S^{'}=\{a\cdot b\,\vert \,\forall b\in S\} = \{ab_1,\, ab_2,\, ...\,,ab_{\varphi(n)}\}$.
 
-$gcd(e,\,n)=1\; for\; all\; e\in S^{'}\;since\;gcd(a,\,n)=1\;\and \; gcd(b,\,n)=1\;for\; all\; b\in S$
+$gcd(e,\,n)=1\; for\; all\; e\in S^{'}\;since\;gcd(a,\,n)=1\; \and \; gcd(b,\,n)=1\;for\; all\; b\in S$
 
 $for\; all\; e,\, g \in S^{'}\,(e \neq g),\;e\not\equiv g\;(mod\,n)\;by\;lemma\,A.$
 
 $\therefore\; ab_1\cdot ab_2\cdot\, ...\,\cdot ab_{\varphi(n)} \equiv b_1\cdot b_2\cdot\, ...\,\cdot b_{\varphi(n)}\;(mod\,n)$
 
-$\Longrightarrow a^{\varphi{(n)}}\equiv 1\; (mod\, n)\;since\; gcd(n,\,b_1\cdot b_2\cdot\, ...\,\cdot b_{\varphi(n)}) = 1$.
+$\Longrightarrow a^{\varphi{(n)}}\equiv 1\; (mod\, n)\;since\; gcd(n,\,b_1\cdot b_2\cdot\, ...\,\cdot b_{\varphi(n)}) = 1$ .
 
 
 
