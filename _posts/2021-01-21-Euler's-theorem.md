@@ -11,7 +11,7 @@ tags: RSA
 
 
 
-<center><h1>Euler's theorem</h1></center>
+> Breif proof of Euler's theorem 
 
 <div style="text-align: right"> cosdong7 </div>
 
@@ -25,8 +25,8 @@ $$
 
 
 
-* TOC
-{:toc}
+
+
 $Proof. $
 
 
@@ -39,7 +39,7 @@ $S = \{b_1,\, b_2,\, ...\,,b_{\varphi(n)}\}$
 
 $Let\; S^{'}=\{a\cdot b\,\vert \,\forall b\in S\} = \{ab_1,\, ab_2,\, ...\,,ab_{\varphi(n)}\}$.
 
-$gcd(e,\,n)=1\; for\; all\; e\in S^{'}\;since\;gcd(a,\,n)=1\; \and \; gcd(b,\,n)=1\;for\; all\; b\in S$
+$gcd(e,\,n)=1\; for\; all\; e\in S^{'}\;since\;gcd(a,\,n)=1\; \land \; gcd(b,\,n)=1\;for\; all\; b\in S$
 
 $for\; all\; e,\, g \in S^{'}\,(e \neq g),\;e\not\equiv g\;(mod\,n)\;by\;lemma\,A.$
 
