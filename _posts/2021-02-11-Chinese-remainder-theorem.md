@@ -55,7 +55,7 @@ $\therefore x\;is\;a\;solution\;for\; $ $$\begin{aligned} x &\equiv a_1 \pmod{n_
 
 $Uniqueness$
 
-$Assume\; x\,,y\,(x \not\equiv y\; mod\,N)\; be\; the\; solutions\; to\; the\; $ $\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$
+$Assume\; x\,,y\,(x \not\equiv y\; mod\,N)\; be\; the\; solutions\; to\; the\; $ $$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$$
 
 $$\begin{aligned} x-y &\equiv 0 \pmod{n_1}\\ x-y &\equiv 0 \pmod{n_2}\\ & \vdots\\ x-y &\equiv 0 \pmod{n_k} \end{aligned}$$
 
@@ -67,7 +67,7 @@ $x\equiv y\; mod\,N$
 
 $\bot $
 
-$\begin{aligned}\\ \\ \\ \end{aligned}$$\therefore\;\;$$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}\;\;$ $has \; unique\; solution. $
+$\therefore\;\;$ $$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}\;\;$$ $has \; unique\; solution. $
 
 <br>
 
