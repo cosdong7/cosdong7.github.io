@@ -81,6 +81,6 @@ $$Gaussian Method$$
 
 2. Find $m_1 =N/n_1,\;m_2 =N/n_2,\,\cdots,\;m_k =N/n_k$.
 
-3. Find the multiplicative inverse of $m_1,\, m_2,\, \cdots,\, m_k$ using the corresponding moduli ($n_1,\, n_2 ,\, \cdots,\, n_k$). Call the inverses $m_1^{-1},\, m_2^{-1},\, \cdots,\, m_k^{-1}$. [Extended Euclidean Algorithm](https://cosdong7.github.io/number_theory/2021/01/29/Extended-Euclidean-Algorithm)
+3. Find the multiplicative inverse of $m_1,\, m_2,\, \cdots,\, m_k$ using the corresponding moduli ($n_1,\, n_2 ,\, \cdots,\, n_k$). Call the inverses $m_1^{-1},\, m_2^{-1},\, \cdots,\, m_k^{-1}$. ([Extended Euclidean Algorithm](https://cosdong7.github.io/number_theory/2021/01/29/Extended-Euclidean-Algorithm))
 4. $x \equiv (a_1m_1m_1^{-1}+a_2m_2m_2^{-1}+\cdots +a_km_km_k^{-1})\; mod\, N$
 
