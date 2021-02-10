@@ -1,6 +1,6 @@
 ---
 title: Extended Euclidean Algorithm
-description: Python implementation of Extended Euclidean Algorithm
+description: Python implementation of Extended Euclidean Algorithm.
 categories:
  - number_theory
 tags: [RSA, Python]
