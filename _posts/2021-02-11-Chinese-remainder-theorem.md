@@ -45,7 +45,7 @@ $Let\; x\, =\, a_{1}\cdot t_{1}\cdot m_{1}+a_{2}\cdot t_{2}\cdot m_{2}+⋯+a_{k}
 
 $x\equiv a_{1}\cdot t_{1}\cdot m_{1}+a_{2}\cdot t_{2}\cdot m_{2}+⋯+a_{k}\cdot t_{k}\cdot m_{k} \equiv  a_{i}\cdot t_{i}\cdot m_{i} \equiv a_{i}\cdot 1 \equiv a_{i} \; mod\,n_{i}$
 
-$\therefore x\;is\;a\;solution\;for\; \begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$
+$\therefore x\;is\;a\;solution\;for\; $$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$
 
 
 
@@ -55,7 +55,7 @@ $\therefore x\;is\;a\;solution\;for\; \begin{aligned} x &\equiv a_1 \pmod{n_1}\\
 
 $Uniqueness$
 
-$Assume\; x\,,y\,(x \not\equiv y\; mod\,N)\; be\; the\; solutions\; to\; the\; \begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$
+$Assume\; x\,,y\,(x \not\equiv y\; mod\,N)\; be\; the\; solutions\; to\; the\; $$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$
 
 $\begin{aligned} x-y &\equiv 0 \pmod{n_1}\\ x-y &\equiv 0 \pmod{n_2}\\ & \vdots\\ x-y &\equiv 0 \pmod{n_k} \end{aligned}$
 
@@ -67,7 +67,7 @@ $x\equiv y\; mod\,N$
 
 $\bot $
 
-$\therefore\;\;\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}\;\;has \; unique\; solution. $
+$\therefore\;\;$$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}\;\;$$has \; unique\; solution. $
 
 <br>
 
