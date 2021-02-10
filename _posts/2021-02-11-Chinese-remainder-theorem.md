@@ -15,7 +15,7 @@ tags: RSA
 
 
 
-<center><h4><em>Statement</em></h4></center>
+### <em>Statement</em>
 
 Given pairwise coprime positive integers $n_1, n_2, \ldots, n_k$ and arbitrary integers $a_1, a_2, \ldots, a_k$, the system of simultaneous congruences 
 
@@ -29,7 +29,7 @@ has a solution, and the solution is unique modulo $N = n_1n_2\cdots n_k$.
 
 <br>
 
-<center><h4><em>Proof</em></h4></center>
+### <em>Proof</em>
 
 $Existence$
 
@@ -73,7 +73,7 @@ $\therefore\;\;\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_
 
 <br>
 
-<center><h4><em>Use</em></h4></center>
+### <em>Use</em>
 
 $$Gaussian Method$$
 
