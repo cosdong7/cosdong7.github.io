@@ -55,9 +55,9 @@ $\therefore x\;is\;a\;solution\;for\; $$$\begin{aligned} x &\equiv a_1 \pmod{n_1
 
 $Uniqueness$
 
-$Assume\; x\,,y\,(x \not\equiv y\; mod\,N)\; be\; the\; solutions\; to\; the\; $$$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$$
+$Assume\; x\,,y\,(x \not\equiv y\; mod\,N)\; be\; the\; solutions\; to\; the\; $$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmod{n_2}\\ & \vdots\\ x &\equiv a_k \pmod{n_k} \end{aligned}$
 
-$\begin{aligned} x-y &\equiv 0 \pmod{n_1}\\ x-y &\equiv 0 \pmod{n_2}\\ & \vdots\\ x-y &\equiv 0 \pmod{n_k} \end{aligned}$
+$$\begin{aligned} x-y &\equiv 0 \pmod{n_1}\\ x-y &\equiv 0 \pmod{n_2}\\ & \vdots\\ x-y &\equiv 0 \pmod{n_k} \end{aligned}$$
 
 $since\;n_1, n_2, \ldots, n_k\;are\;pairwise\;coprime\;and\; n_i\mid (x-y)\;for \; 1\leq i \leq k\; \Rightarrow \; N\mid (x-y)$
 
