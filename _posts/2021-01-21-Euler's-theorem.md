@@ -43,7 +43,7 @@ $Let\; S^{'}=\{a\cdot b\,\vert \,\forall b\in S\} = \{ab_1,\, ab_2,\, ...\,,ab_{
 
 $gcd(e,\,n)=1\; for\; all\; e\in S^{'}\;since\;gcd(a,\,n)=1\; \land \; gcd(b,\,n)=1\;for\; all\; b\in S$
 
-$for\; all\; e,\, g \in S^{'}\,(e \neq g),\;e\not\equiv g\;(mod\,n)\;by\;$[$lemma A$](####Lemma A)
+$for\; all\; e,\, g \in S^{'}\,(e \neq g),\;e\not\equiv g\;(mod\,n)\;by\;$[$lemma A$](#### Lemma A)
 
 $\therefore\; ab_1\cdot ab_2\cdot\, ...\,\cdot ab_{\varphi(n)} \equiv b_1\cdot b_2\cdot\, ...\,\cdot b_{\varphi(n)}\;(mod\,n)$
 
