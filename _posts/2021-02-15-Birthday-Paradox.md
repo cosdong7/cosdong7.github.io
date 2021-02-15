@@ -85,7 +85,7 @@ $The\;generalized\; Birthday\; Paradox\; probability\; P(n) =1- \frac{d!}{(d-n)!
 
 <br>
 
-### 
+
 
 ### <em>Reverse problem</em>
 
