@@ -125,7 +125,7 @@ $\qquad \bullet\; N$ is slightly larger than $\varphi(N)$.
 
 $\qquad \bullet\; \frac{1}{d\varphi(N)} \approx 0$.
 
-$\therefore$ we can apply continued fraction algorithm with $f' = \frac{e}{N}$  $f = \frac{k}{d}$.
+$\therefore$ we can apply continued fraction algorithm with $f' = \frac{e}{N}$,  $\;\; f = \frac{k}{d}$.
 
 
 
