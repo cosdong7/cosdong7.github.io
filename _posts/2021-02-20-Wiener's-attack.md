@@ -103,7 +103,7 @@ $\delta\; (=1-\frac{f'}{f})<\frac{1}{\frac{3}{2}n_md_m}$ is sufficient to guaran
 
 
 
-s<br>
+<br>
 
 <br>
 
