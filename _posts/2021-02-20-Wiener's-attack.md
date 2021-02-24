@@ -49,7 +49,7 @@ It can be shown that,
 
 $$\begin{aligned} n_0 = q_0, &\qquad d_0=1,\\ n_1 = q_0q_1+1, &\qquad d_1=q_1,\\ &\quad \vdots\\ n_i = q_in_{i-1}+n_{i-2}, &\qquad d_i=q_id_{i-1}+d_{i-2},\\  \end{aligned}$$  for $i = 2,\, 3,\, \cdots, \, m.$
 
-Then, $f = n_m/d_m.$
+Then, $\;f = n_m/d_m.$
 
 
 
@@ -63,7 +63,7 @@ Let $f'$ be an underestimate of $f$ :
 
 $$f'=f(1-\delta),\qquad for\; some\; \delta \ge 0.$$
 
-Let $q_i$, $r_i$ and $q'_i$, $r'_i$ be the $i$th quotients and remainders of $f$ and $f'$ respectively.
+Let $\;q_i$, $r_i$ and $q'_i$, $r'_i$ be the $i$th quotients and remainders of $f$ and $f'$ respectively.
 
 <br>
 
@@ -72,8 +72,10 @@ If $\delta$ is small enough, then the numerator and denominator of $f$ can be fo
 1. Generate the next quotient ($q'_i$) of the continued fraction expansion of $f'$.
 
 2. Construct the fraction equal to 
-
-   $\begin{aligned} &\langle q'_0,\, q'_1,\, \cdots ,\, q'_{i-1},\, q'_i+1\rangle, \qquad &if\;i\;is\;even,\\&\langle q'_0,\, q'_1,\, \cdots ,\, q'_{i-1},\, q'_i\rangle, \qquad &if\;i\;is\;odd.\end{aligned}$
+   $$
+   \begin{aligned} &\langle q'_0,\, q'_1,\, \cdots ,\, q'_{i-1},\, q'_i+1\rangle, \qquad &if\;i\;is\;even,\\&\langle q'_0,\, q'_1,\, \cdots ,\, q'_{i-1},\, q'_i\rangle, \qquad &if\;i\;is\;odd.\end{aligned}
+   $$
+   
 
 3. If the constructed fraction is not equal to $f$, go to 1.
 
@@ -90,10 +92,10 @@ Time complexiity: polynomial in $log(max(n_m, \, d_m)).$
 ## <center>How small should the $\delta$ be?</center>
 
 The continued fraction algorithm will succeed if:
-
-$\begin{aligned} &\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m-1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f), \qquad &if\;m\;is\;even,\\&\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m+1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f),  &if\;m\;is\;odd. \end{aligned}$
-
-$\delta (=1-\frac{f'}{f})<\frac{1}{\frac{3}{2}n_md_m}$ is sufficient to guarantee the inequality above. 
+$$
+\begin{aligned} &\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m-1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f), \qquad &if\;m\;is\;even,\\&\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m+1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f),  &if\;m\;is\;odd. \end{aligned}
+$$
+$\delta\; (=1-\frac{f'}{f})<\frac{1}{\frac{3}{2}n_md_m}$ is sufficient to guarantee the inequality above. 
 
 
 
@@ -115,8 +117,9 @@ $\frac{e}{\varphi(N)} = \frac{k}{d}+\frac{1}{d\varphi(N)}$
 
 If $N$ is large enough, 
 
-	1. $N$ is slightly larger than $\varphi(N)$.
- 	2. $\frac{1}{d\varphi(N)} \approx 0$.
+​	<li>$N$ is slightly larger than $\varphi(N)$.
+
+​	<li>$\frac{1}{d\varphi(N)} \approx 0$.
 
 $\therefore$ we can apply continued fraction algorithm with $f' = \frac{e}{N}$  $f = \frac{k}{d}$.
 
