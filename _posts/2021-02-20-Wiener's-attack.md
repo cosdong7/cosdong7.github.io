@@ -92,6 +92,8 @@ Time complexiity: polynomial in $log(max(n_m, \, d_m)).$
 ## <center>How small should the $\delta$ be?</center>
 
 The continued fraction algorithm will succeed if:
+
+
 $$
 \begin{aligned} &\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m-1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f), \qquad &if\;m\;is\;even,\\&\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m+1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f),  &if\;m\;is\;odd. \end{aligned}
 $$
@@ -117,9 +119,9 @@ $\frac{e}{\varphi(N)} = \frac{k}{d}+\frac{1}{d\varphi(N)}$
 
 If $N$ is large enough, 
 
-​	<li>$N$ is slightly larger than $\varphi(N)$.
+​	$\bullet\; N$ is slightly larger than $\varphi(N)$.
 
-​	<li>$\frac{1}{d\varphi(N)} \approx 0$.
+​	$\bullet\; \frac{1}{d\varphi(N)} \approx 0$.
 
 $\therefore$ we can apply continued fraction algorithm with $f' = \frac{e}{N}$  $f = \frac{k}{d}$.
 
