@@ -97,11 +97,13 @@ The continued fraction algorithm will succeed if:
 $$
 \begin{aligned} &\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m-1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f), \qquad &if\;m\;is\;even,\\&\langle q_0,\, q_1,\, \cdots ,\, q_{m-1},\, q_m+1\rangle <f'\le \langle q_0,\, q_1,\, \cdots ,\, q_m\rangle(=f),  &if\;m\;is\;odd. \end{aligned}
 $$
+
+
 $\delta\; (=1-\frac{f'}{f})<\frac{1}{\frac{3}{2}n_md_m}$ is sufficient to guarantee the inequality above. 
 
 
 
-<br>
+s<br>
 
 <br>
 
@@ -119,9 +121,9 @@ $\frac{e}{\varphi(N)} = \frac{k}{d}+\frac{1}{d\varphi(N)}$
 
 If $N$ is large enough, 
 
-​	$\bullet\; N$ is slightly larger than $\varphi(N)$.
+$\qquad \bullet\; N$ is slightly larger than $\varphi(N)$.
 
-​	$\bullet\; \frac{1}{d\varphi(N)} \approx 0$.
+$\qquad \bullet\; \frac{1}{d\varphi(N)} \approx 0$.
 
 $\therefore$ we can apply continued fraction algorithm with $f' = \frac{e}{N}$  $f = \frac{k}{d}$.
 
