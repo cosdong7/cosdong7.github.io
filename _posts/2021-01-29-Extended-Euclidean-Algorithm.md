@@ -10,7 +10,7 @@ tags: [RSA, Python]
 
 
 
-> Breif implementation of Extended Euclidean Algorithm
+> Breif implementation of the Extended Euclidean Algorithm
 
 <div style="text-align: right"> cosdong7 </div>
 
