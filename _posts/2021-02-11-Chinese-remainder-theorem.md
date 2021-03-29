@@ -75,7 +75,7 @@ $\therefore\;\;$ $$\begin{aligned} x &\equiv a_1 \pmod{n_1}\\ x &\equiv a_2 \pmo
 
 ### <em>Use</em>
 
-$$Gaussian Method$$
+$$Gaussian\; Method$$
 
 1. Find $N = n_1 × n_2 × \cdots × n_k$. 
 
