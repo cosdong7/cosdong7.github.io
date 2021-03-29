@@ -532,6 +532,12 @@ leancloud_visitors:
 busuanzi_count:
   # count values only if the other configs are false
   enable: true
+  total_visitors: true
+  total_visitors_icon: user
+  total_views: true
+  total_views_icon: eye
+  post_views: true
+  post_views_icon: eye
   # custom uv span for the whole site
   site_uv: true
   site_uv_header: <i class="fa fa-user"></i>
